@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactSendHttpRequestExample/static/css/main.82ba2bdf.css",
+    "main.js": "/reactSendHttpRequestExample/static/js/main.c53a174d.js",
+    "index.html": "/reactSendHttpRequestExample/index.html",
+    "main.82ba2bdf.css.map": "/reactSendHttpRequestExample/static/css/main.82ba2bdf.css.map",
+    "main.c53a174d.js.map": "/reactSendHttpRequestExample/static/js/main.c53a174d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ba2bdf.css",
+    "static/js/main.c53a174d.js"
+  ]
+}
